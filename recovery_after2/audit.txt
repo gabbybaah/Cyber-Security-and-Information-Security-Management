@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Aug 18 01:03:55 2026
+Invocation: foremost -c custom.conf -i evidence_after_overwrite2.dd -o recovery_after2/ 
+Output directory: /home/Gabby/examlab/recovery_after2
+Configuration file: /home/Gabby/examlab/custom.conf
+------------------------------------------------------------------
+File: evidence_after_overwrite2.dd
+Start: Tue Aug 18 01:03:55 2026
+Length: 30 MB (31457280 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Tue Aug 18 01:03:55 2026
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Tue Aug 18 01:03:55 2026

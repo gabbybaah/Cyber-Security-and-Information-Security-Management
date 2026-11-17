@@ -1,0 +1,48 @@
+
+dc3dd 7.2.646 started at 2026-08-18 00:37:28 +0000
+compiled options:
+command line dc3dd if=evidence_drive.img hash=sha256 log=preimage.log of=evidence_baseline.dd
+sector size: 512 bytes (assumed)
+    31457280 bytes ( 30 M ) copied ( 100% ), 0.208166 s, 144 M/s
+
+input results for file `evidence_drive.img':
+   61440 sectors in
+   a60cab050cfd5b116470c694ef89f1587dad82a31a9716a608790c279869712b (sha256)
+
+output results for file `evidence_baseline.dd':
+   61440 sectors out
+
+dc3dd completed at 2026-08-18 00:37:28 +0000
+
+
+dc3dd 7.2.646 started at 2026-08-18 00:40:14 +0000
+compiled options:
+command line dc3dd if=evidence_drive.img hash=sha256 log=preimage.log of=evidence_baseline.dd
+sector size: 512 bytes (assumed)
+    31457280 bytes ( 30 M ) copied ( 100% ), 0.305276 s, 98 M/s
+
+input results for file `evidence_drive.img':
+   61440 sectors in
+   360b0012cb29662d48920426321614c27bf05aff5c6bdf83c498580cbe3398f3 (sha256)
+
+output results for file `evidence_baseline.dd':
+   61440 sectors out
+
+dc3dd completed at 2026-08-18 00:40:14 +0000
+
+
+dc3dd 7.2.646 started at 2026-08-18 00:52:08 +0000
+compiled options:
+command line dc3dd if=evidence_drive.img hash=sha256 log=preimage.log of=evidence_baseline.dd
+sector size: 512 bytes (assumed)
+    31457280 bytes ( 30 M ) copied ( 100% ), 0.311237 s, 96 M/s
+
+input results for file `evidence_drive.img':
+   61440 sectors in
+   37400e3ebf2a47ee8e244edc00385e78938527ede7bdeebce0a19b5ba7de87b9 (sha256)
+
+output results for file `evidence_baseline.dd':
+   61440 sectors out
+
+dc3dd completed at 2026-08-18 00:52:08 +0000
+
